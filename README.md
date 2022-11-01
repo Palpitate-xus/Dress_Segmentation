@@ -10,4 +10,3 @@ pip install matplotlib
 #### 2.运行Train_UNET.ipynb
 #### 3.运行Extract_Dress.ipynb
 based on @<a href='https://towardsdatascience.com/dress-segmentation-with-autoencoder-in-keras-497cf1fd169a'><b>cerlymarco</b></a>
-test
