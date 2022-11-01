@@ -2,7 +2,7 @@
 
 ### 如何运行本项目：
 #### 1.安装依赖
-```
+```bash
 pip install tensorflow==2.7.0
 pip install opencv-python
 pip install matplotlib
